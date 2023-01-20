@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*kCuNL07RRQvPWiiaTpWARg.gif)]
 <h1 align="center">Hi 👋, I'm Nijat Asgarov</h1>
 <h3 align="center">A passionate Software developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
