@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mr.nijat.asgarov@gmail.com**
 
-- ⚡ Fun fact **i think i am funny:)**
+- ⚡ Fun fact **i am funny:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
